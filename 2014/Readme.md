@@ -1,27 +1,23 @@
 Maratona de Programação CIC/UnB 2014
 ====================================
 
-Seletiva: 6 de dezembro de 2014
-Final: 13 de dezembro de 2014
-
-[fotos](https://www.facebook.com/maratonaunb)
+* Maratona: 13 de dezembro de 2014
+* _Seletiva: 6 de dezembro de 2014 (caso necessária)_
 
 Regras
 ------
 
 Estas regras foram baseadas nas [regras da competição oficial](http://maratona.ime.usp.br/regras14.html) e aprovadas pelo Comitê Diretor da Maratona de Programação CIC/UnB.
-    
-Formação dos times
-------------------
+
+### Formação dos times ###
 
 Os times representam instituições de ensino superior do Distrito Federal, aqui chamadas de escolas. Os times são formados por um técnico e três alunos da instituição. Todos os alunos devem ser da mesma escola, mas uma mesma instituição pode ter vários times participantes. Todos os times de uma institutição devem disputar a primeira fase em uma mesma sede. A aceitação de mais de dois times de uma escola está sujeita à capacidade da sede em que a inscrição se realiza e será atendida por ordem de chegada.
 
 O concurso se destina a alunos de instituições superiores tipicamente da área de computação (Ciência da Computação, Engenharia de Computação, Sistemas de Informação, etc.) e áreas afins (Matemática, Física e Engenharia). Não há impedimentos à participação de alunos de outros cursos. O técnico será o representante do time junto à organização do concurso e deverá ser um docente desta escola. O mesmo técnico poderá representar vários times da escola. Uma mesma escola pode ter vários técnicos. Todos os times da escola devem competir na mesma sede.
 
-Cada time é composto por três alunos, um aluno não pode participar de mais de um time. Todos devem ser alunos regulares de cursos de graduação da escola, devidamente inscritos. Substituições de integrantes não serão aceitas.
+Cada time é composto por três alunos, um aluno não pode participar de mais de um time. Todos devem ser alunos regulares de cursos de graduação da escola, devidamente matriculados. Substituições de integrantes não serão aceitas.
 
-Formato do concurso
--------------------
+### Formato do concurso ###
 
 Em cada uma das fases da Maratona de Programação os times receberão uma prova com diversos problemas que devem ser resolvidos durante a competição. Os problemas deverão ser resolvidos em alguma das linguagens de programação disponíveis, atualmente apenas C/C++ e Java. Para a implementação os times terão à sua disposição um computador e todo o material escrito que desejarem. Entretanto, não poderão fazer uso de material armazenado em meio digital ou ter acesso à Internet durante a competição.
 
@@ -31,9 +27,28 @@ O time vencedor é aquele que resolve a maior quantidade de problemas durante a 
 
 A organização da competição é responsável pela decisão de qualquer caso não previsto. Os times inscritos permitem o uso e divulgação de suas imagens e dos programas submetidos pela organização da competição.
 
-Recursos
+### Recursos###
+
 Apenas o técnico do time poderá recorrer à organização do evento caso julgue que seu time tenha sido prejudicado durante a competição. Qualquer recurso deve ser inicialmente enviado ao diretor da Maratona de Programação dentro de dois dias úteis a contar do dia da realização do concurso. O Comitê Diretor da Maratona de Programação decidirá sobre o caso.
 
 Um recurso deve estar baseado em uma ou mais das circunstâncias a seguir: violação de uma regra, má conduta de um time ou má conduta da administração do concurso com intenção de prejudicar. As decisões dos juízes são finais. Não cabe recurso quanto a julgamento de problemas.
 
-Qualquer dúvida a respeito das regras deve ser encaminhada ao Comitê Diretor da Maratona de Programação.
+Inscrição
+----------
+
+Cada time deve entregar o formulário devidamente preenchido e assinado pelo técnico na [secretaria do CIC](http://cic.unb.br/) ou da [FGA](http://www.fga.unb.br/software/engenharia-de-software). Formulários incompletos ou preenchidos incorretamente serão desconsiderados e o time não poderá participar do evento.
+
+Maratona
+--------
+
+A Maratona está prevista para o dia 13 de dezembro de 2014, as 08:00 no Laboratório de Informática da UnB ([LINF](http://www.cic.unb.br/index.php?option=com_content&view=category&layout=blog&id=30&Itemid=34)), com duração prevista até as 13:00. Não será permitido o uso de equipamentos eletrônicos durante o evento, cada time pode utilizar um número reduzido de material impresso para consulta.
+
+Caso haja um número elevado de inscritos, haverá uma competição nos mesmos moldes no dia 6 de dezembro para selecionar os participantes. 
+
+Observações
+-----------
+
+1. Qualquer dúvida a respeito das regras deve ser encaminhada ao [Comitê Diretor da Maratona de Programação](gnramos@unb.br), com o assunto ```[Maratona CIC/UnB 2014]```.
+2. Fotos e novidades (etc.) serão divulgados pelas vias oficiais:
+  - [Informes Gerais CIC](http://coordgrad.cic.unb.br)
+  - [Maratona UnB](https://www.facebook.com/maratonaunb) (Facebook)
