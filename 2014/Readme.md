@@ -39,12 +39,18 @@ Inscrição
 
 Cada time deve entregar o [formulário](./Inscricao_2014.pdf?raw=true) devidamente preenchido e assinado pelo técnico na [secretaria do CIC](http://cic.unb.br/) ou da [FGA](http://www.fga.unb.br/software/engenharia-de-software). Formulários incompletos ou preenchidos incorretamente serão desconsiderados e o time não poderá participar do evento.
 
-A Maratona prevê a participação de até 20 times. No caso de um número excessivo de inscritos, haverá uma disputa seletiva nos moldes do concurso em que apenas os times de melhor desempenho serão qualificados para definir os participantes (os times para participação na Maratona. É garantida a presença de pelo menos um time por instituição.
+A Maratona prevê a participação de até 20 times. No caso o número de inscritos
+exceda este limite, haverá uma disputa seletiva nos moldes do concurso, podendo
+a mesma ser realizada em uma plataforma online.
+
+Realizada a Seletiva, apenas os 20 times de melhor desempenho serão qualificados para participar da Maratona. É garantida a presença de pelo menos um time de cada escola.
 
 Maratona
 --------
 
-A Maratona está prevista para o dia 13 de dezembro de 2014, as 08:00 no Laboratório de Informática da UnB ([LINF](http://www.cic.unb.br/index.php?option=com_content&view=category&layout=blog&id=30&Itemid=34)), com duração prevista até as 13:00. Não será permitido o uso de equipamentos eletrônicos durante o evento, cada time pode utilizar um número reduzido de material impresso para consulta.
+A Maratona está prevista para o dia 13 de dezembro de 2014, as 08:00 no Laboratório de Informática da UnB ([LINF](http://www.cic.unb.br/index.php?option=com_content&view=category&layout=blog&id=30&Itemid=34)), com duração prevista até as 13:00. Não será permitido o uso de equipamentos eletrônicos durante o evento, cada time pode utilizar material impresso para consulta, desde que em quantidade
+razoável (fica a critério dos juízes decidir se a quantidade de material 
+impresso em posse de uma equipe excede o limite razoável).
 
 Observações
 -----------
