@@ -1,8 +1,9 @@
 Maratona de Programação CIC/UnB 2014
 ====================================
 
-* Maratona: 13 de dezembro de 2014
+* Inscrições: até 2 de dezembro de 2014
 * _Seletiva: 6 de dezembro de 2014 (caso necessária)_
+* Maratona: 13 de dezembro de 2014
 
 Regras
 ------
@@ -36,19 +37,19 @@ Um recurso deve estar baseado em uma ou mais das circunstâncias a seguir: viola
 Inscrição
 ----------
 
-Cada time deve entregar o formulário devidamente preenchido e assinado pelo técnico na [secretaria do CIC](http://cic.unb.br/) ou da [FGA](http://www.fga.unb.br/software/engenharia-de-software). Formulários incompletos ou preenchidos incorretamente serão desconsiderados e o time não poderá participar do evento.
+Cada time deve entregar o [formulário](./Inscricao_2014.pdf?raw=true) devidamente preenchido e assinado pelo técnico na [secretaria do CIC](http://cic.unb.br/) ou da [FGA](http://www.fga.unb.br/software/engenharia-de-software). Formulários incompletos ou preenchidos incorretamente serão desconsiderados e o time não poderá participar do evento.
+
+A Maratona prevê a participação de até 20 times. No caso de um número excessivo de inscritos, haverá uma disputa seletiva nos moldes do concurso em que apenas os times de melhor desempenho serão qualificados para definir os participantes (os times para participação na Maratona. É garantida a presença de pelo menos um time por instituição.
 
 Maratona
 --------
 
 A Maratona está prevista para o dia 13 de dezembro de 2014, as 08:00 no Laboratório de Informática da UnB ([LINF](http://www.cic.unb.br/index.php?option=com_content&view=category&layout=blog&id=30&Itemid=34)), com duração prevista até as 13:00. Não será permitido o uso de equipamentos eletrônicos durante o evento, cada time pode utilizar um número reduzido de material impresso para consulta.
 
-Caso haja um número elevado de inscritos, haverá uma competição nos mesmos moldes no dia 6 de dezembro para selecionar os participantes. 
-
 Observações
 -----------
 
-1. Qualquer dúvida a respeito das regras deve ser encaminhada ao [Comitê Diretor da Maratona de Programação](gnramos@unb.br), com o assunto ```[Maratona CIC/UnB 2014]```.
+1. Qualquer dúvida a respeito das regras deve ser encaminhada ao [Comitê Diretor da Maratona de Programação](<mailto:gnramos@unb.br), com o assunto ```[Maratona CIC/UnB 2014]```.
 2. Fotos e novidades (etc.) serão divulgados pelas vias oficiais:
   - [Informes Gerais CIC](http://coordgrad.cic.unb.br)
   - [Maratona UnB](https://www.facebook.com/maratonaunb) (Facebook)
