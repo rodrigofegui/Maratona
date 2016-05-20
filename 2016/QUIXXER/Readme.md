@@ -33,7 +33,8 @@ precisam de um técnico.
 Cada time é composto por três membros, e um membro não pode participar de mais
 de um time. Todos os membros das escolas devem ser alunos regulares de cursos
 de graduação da escola, devidamente matriculados. Substituições de integrantes
-não serão aceitas.
+não serão aceitas. Uma equipe pode competir apenas se tiver os três membros
+presentes: equipes com menos de três membros serão desclassificadas.
 
 ### Formato do concurso
 
