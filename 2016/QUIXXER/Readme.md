@@ -19,7 +19,7 @@ comunidade. Os times são formados por um técnico e três alunos da instituiç�
 por três membros da comunidade. Todos os alunos devem ser da mesma escola, e
 uma mesma instituição pode ter vários times participantes. O número de times por
 escola ou da comunidade seguirá a distribuição de vagas listada na seção de
-[Inscrições](Inscrições).
+[Inscrições](#Inscrições).
 
 O concurso se destina a alunos de instituições superiores tipicamente da área
 de computação (Ciência da Computação, Engenharia de Computação, Sistemas de
