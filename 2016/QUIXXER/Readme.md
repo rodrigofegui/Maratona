@@ -86,7 +86,7 @@ cabe recurso quanto a julgamento de problemas.
 Cada time deve entregar o [formulário](./Inscricao_2014.pdf?raw=true)
 digitalizado, devidamente preenchido e assinado pelo técnico (se for o caso)
 por
-[e-mail](edsonalves@unb.br).  Formulários incompletos ou preenchidos
+[e-mail](mailto:edsonalves@unb.br).  Formulários incompletos ou preenchidos
 incorretamente serão desconsiderados e o time não poderá participar do evento.
 
 Ao submeter o formulário de inscrição a equipe autoriza a Quixxer, apoiadora
@@ -112,7 +112,7 @@ vagas, de acordo com a origem da equipe.
 ### Seletiva
 
 A seletiva para as equipes oriundas da Universidade de Brasília será um evento
-online, realizado na plataforma Boca neste [endereço](lappis.unb.br/boca) no
+online, realizado na plataforma Boca neste [endereço](http://lappis.unb.br/boca) no
 dia 18 de junho, das 08:00 às 13:00 hrs. No momento da entrega dos formulários
 o técnico da equipe receberá o login e a senha de sua equipe.
 
