@@ -1,0 +1,120 @@
+\documentclass{UnBExam}%
+\usepackage{url}
+\usepackage[brazilian]{babel}
+\usepackage{amsmath}
+
+\newcommand{\dataprimeirodia}{12 de março de 2016}
+\newcommand{\nomeprofessor}{Guilherme Novaes Ramos}
+
+\disciplina{116297 - Tópicos Avançados em Computadores}%
+\turma{$x$}%
+\documento{}%
+\subdoc{Plano de ensino}%
+\periodo{1/2016}%
+\professor{\nomeprofessor}
+
+\setlength\parindent{0pt}% 	remover tabulação
+
+% Mudar estilo da seção
+\makeatletter%
+\renewcommand\section{\@startsection{section}{1}{\z@}%
+	{-3.5ex \@plus -1ex \@minus -.2ex}%
+	{2.3ex \@plus.2ex}%
+	{\normalfont\normalsize\bfseries}}%
+\makeatother%
+
+% Novo estilo de enumeração
+\renewcommand{\theenumi}{\small\thesection.\arabic{enumi}}%
+\newenvironment{my_enumerate}%
+{\begin{enumerate}%
+  \vspace{-0.3\baselineskip}
+  \setlength{\itemsep}{1pt}%
+  \setlength{\parskip}{0pt}%
+  \setlength{\parsep}{0pt}}%
+{\end{enumerate}}%
+% Novo estilo para itemização
+\renewcommand{\labelitemi}{-}
+\newenvironment{my_itemize}%
+{\begin{itemize}%
+  \vspace{-0.3\baselineskip}
+  \setlength{\itemsep}{1pt}%
+  \setlength{\parskip}{0pt}%
+  \setlength{\parsep}{0pt}}%
+{\end{itemize}}
+
+\printanswers
+
+\begin{document}
+	\section{Objetivo}%
+		\hspace{.5cm} A disciplina visa complementar a formação do aluno em prática de solucionamento de problemas, através de treinamento para competições de programação.
+\vspace{-0.25cm}	
+	\section{Ementa}%
+	\begin{my_itemize}
+		\item Algoritmos e estruturas de dados
+		\item Paradigmas de soluções de problemas
+		\item Matemática computacional
+		\item Cadeias
+	\end{my_itemize}
+\vspace{-0.5cm}	
+	\section{Procedimento de ensino}%
+	\label{sec:procedimento}
+		\hspace{.5cm} No início do semestre, um nível $n \in \{1,2,3,4\}$ é atribuído a cada aluno, que está de acordo com a experiência do aluno em competições de programação. O nível 1 representa um aluno iniciante e o nível 4 representa um aluno experiente.
+		\begin{my_itemize}
+			\item Atividades teóricas: alunos de nível $n > 1$ devem acompanhar alunos de nível $n-1$, sanando dúvidas e ensinando algoritmos/técnicas/conceitos. Caso não hajam alunos de nível $n-1$, os alunos de nível $n$ devem acompanhar os alunos de nível $n-2$ e assim por diante.
+			\item Atividades práticas: alunos de nível $n < 4$ devem participar de torneios de programação e completar as listas de exercícios de seus respectivos níveis. Cada lista de exercícios é uma lista de problemas de juízes automáticos a serem resolvidos.
+			\item Elaboração e manutenção de material didático: alunos de nível 4 devem preparar os torneios e manter atualizadas as listas de exercícios.
+		\end{my_itemize}
+\vspace{-0.5cm}
+	\section{Regras}%
+		\begin{my_itemize}
+			\item Os torneios devem ser feitos individualmente por cada aluno.
+			\item Cada torneio segue o formato da Maratona de Programação (\url{http://maratona.ime.usp.br/} $\rightarrow$ ``Regras'' $\rightarrow$ ``Formato do concurso''), adaptado para acontecer em quatro horas.
+			\item Durante os torneios, \emph{é} permitido consultar qualquer material manuscrito ou impresso, como livros, cadernos, apostilas, etc. No entanto, \emph{não} é permitido nenhum tipo de comunicação entre alunos, ou entre um aluno e o mundo externo ao ambiente do torneio.
+			\item Os torneios serão abertos para pessoas de fora participarem.
+		\end{my_itemize}
+ \vspace{-0.3cm}
+	\section{Avaliação}%
+		\begin{my_itemize}
+			\item Cada torneio será composto de oito problemas, onde cada nível é contemplado com dois\break problemas. A nota de um aluno de nível $n$ no $i$-ésimo torneio é $T_i = 10 \min\{2n,r_i\}/(2n)$, onde $r_i$ é o número de problemas resolvidos por este aluno neste torneio. A nota final de um aluno nos torneios é $T = (T_1 + T_2 + T_3 + T_4)/4$.
+			\item A nota de um aluno de nível $n$ na lista de exercícios é $E = 10 e/t_n$, onde $e$ é o número de exercícios da lista do nível $n$ resolvidos por este aluno; e $t_n$ é o número total de exercícios na lista do nível $n$.
+			\item Seja $k(n)$ o nível pelo qual o nível $n$ é responsável (de acordo com a Seção \ref{sec:procedimento}).\break Definimos $M(n) = 1/A_{k(n)} \sum\limits_{i=1}^{A_{k(n)}} E_i$, onde $A_{k(n)}$ é o número de alunos no nível $k(n)$ e $E_i$ é a nota do $i$-ésimo aluno de nível $k(n)$ na lista de exercícios.
+			\item A nota em material didático de um aluno de nível 4 é $D = 10 \min\{\lfloor 32/A_4 \rfloor,d\}/(\lfloor 32/A_4 \rfloor)$, onde $A_4$ é o número de alunos no nível 4 e $d$ é o total de problemas elaborados por este aluno para os torneios.
+			\item A nota final de um aluno de nível $n < 4$ é $N=(2T + 2E + M(n))/5$. Se não há alunos de nível menor que $n$, $N=(T+E)/2$.
+			\item A nota final de um aluno de nível 4 é $N=(M(4) + 4D)/5$. Se não há alunos de nível menor que 4, $N=D$.
+			\item A menção de um aluno é dada da seguinte maneira.
+			\[
+			\text{Menção} =
+				\begin{cases}
+					\hfill \text{SR} \hfill & \text{se } N \in [0  ,0.1) \\
+					\hfill \text{II} \hfill & \text{se } N \in [0.1,  3) \\
+					\hfill \text{MI} \hfill & \text{se } N \in [  3,  5) \\
+					\hfill \text{MM} \hfill & \text{se } N \in [  5,  7) \\
+					\hfill \text{MS} \hfill & \text{se } N \in [  7,  9) \\
+					\hfill \text{SS} \hfill & \text{se } N \in [  9, 10] \\
+				\end{cases}
+			\]
+		\end{my_itemize}
+		\vspace{-.5cm}
+\vspace{-0.5cm}
+	\section{Cronograma}%
+		\begin{my_itemize}
+			\item 09/04: Torneio 1
+			\item 07/05: Torneio 2
+			\item 04/06: Torneio 3
+			\item 09/07: Torneio 4
+		\end{my_itemize}
+\vspace{-0.3cm}	
+	\section{Bibliografia}%
+		\begin{my_itemize}
+		\item Halim, S., \& Halim, F. (2013). \textit{Competitive Programming 3: The New Lower Bound of\break Programming Contests: Handbook for ACM ICPC and IOI Contestants.} Lulu.com.
+		\item Skiena, S. S., \& Revilla, M. A. (2006). \textit{Programming challenges: The programming contest training manual.} Springer.
+		\item Cormen, T. H., Leiserson, C. E., Rivest, R. L., \& Stein, C. (2009). \textit{Introduction to algorithms.} MIT Press.
+		\item Skiena, S. S. (2008). \textit{The algorithm design manual.} Springer.
+		\item Dasgupta, S., Papadimitriou, C. H., \& Vazirani, U. (2006). \textit{Algorithms.} McGraw-Hill, Inc.
+		\item Preparata, F. P., \& Shamos, M. (2012). \textit{Computational geometry: an introduction.} Springer.
+		\item Diestel, R. (2010). \textit{Graph theory.} Springer.
+		\item Graham, R. L., Knuth D. E., \& Patashnik O. (1994). \textit{Concrete Mathematics: A Foundation for Computer Science.} Addison-Wesley.
+		\end{my_itemize}
+	\vspace{.6cm}%\vfill
+	Brasília, \dataprimeirodia \hfill \parbox[t]{75mm} {\hrulefill\\\ \ \textit{Prof. \nomeprofessor}}
+\end{document}
