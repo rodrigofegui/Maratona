@@ -100,15 +100,14 @@ As inscrições são gratuitas, e a única restrição diz respeito à idade do
 participante: 40 anos ou menos. A tabela abaixo apresenta a reserva prévia de
 vagas, de acordo com a origem da equipe.
 
-| Vagas | Origem ||
-
-6 | Faculdade UnB/Gama ||
-6 | CIC/UnB ||
-2 | FT/UnB ||
-8 | Instituições de Ensino Superior, exceto UnB ||
-5 | Comunidade ||
-3 | A definir ||
-[Reserva de vagas]
+| Vagas | Origem |
+|-------|--------|
+| 6 | Faculdade UnB/Gama |
+| 6 | CIC/UnB |
+| 2 | FT/UnB |
+| 8 | Instituições de Ensino Superior, exceto UnB |
+| 5 | Comunidade |
+| 3 | A definir |
 
 ### Seletiva
 
