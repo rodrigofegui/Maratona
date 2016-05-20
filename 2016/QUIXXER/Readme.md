@@ -138,7 +138,11 @@ Membros da comunidade podem almoçar por R$ 15,00.
 Abaixo segue o programa do evento:
 
 **09:00** - Abertura/Palestra
+
 **10:15** - Warmup
+
 **11:00** - Almoço
+
 **13:00** - Maratona
+
 **18:00** - Premiação/Encerramento
