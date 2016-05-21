@@ -28,7 +28,8 @@ das mesmas. Não há impedimentos à participação de alunos de outros cursos. 
 técnico será o representante do time junto à organização do concurso e deverá
 ser um docente desta escola. O mesmo técnico poderá representar vários times da
 escola. Uma mesma escola pode ter vários técnicos. Equipes da comunidade não
-precisam de um técnico.
+precisam de um técnico: neste caso, um dos três membros deve ser o
+responsável pela equipe.
 
 Cada time é composto por três membros, e um membro não pode participar de mais
 de um time. Todos os membros das escolas devem ser alunos regulares de cursos
@@ -73,7 +74,7 @@ programas submetidos pela organização da competição.
 
 ### Recursos
 
-Apenas o técnico do time poderá recorrer à organização do evento caso julgue que
+Apenas o técnico/responsável do time poderá recorrer à organização do evento caso julgue que
 seu time tenha sido prejudicado durante a competição. O Comitê Diretor do evento
 decidirá sobre o caso.
 
@@ -84,8 +85,8 @@ cabe recurso quanto a julgamento de problemas.
 
 ### Inscrições
 
-Cada time deve entregar o [formulário](./Inscricao_2014.pdf?raw=true)
-digitalizado, devidamente preenchido e assinado pelo técnico (se for o caso)
+Cada time deve entregar o [formulário](./Formulario_Inscricao.pdf?raw=true)
+digitalizado, devidamente preenchido e assinado pelo técnico ou responsável
 por
 [e-mail](mailto:edsonalves@unb.br).  Formulários incompletos ou preenchidos
 incorretamente serão desconsiderados e o time não poderá participar do evento.
@@ -115,7 +116,7 @@ vagas, de acordo com a origem da equipe.
 A seletiva para as equipes oriundas da Universidade de Brasília será um evento
 online, realizado na plataforma Boca neste [endereço](http://lappis.unb.br/boca) no
 dia 18 de junho, das 08:00 às 13:00 hrs. No momento da entrega dos formulários
-o técnico da equipe receberá o login e a senha de sua equipe.
+o técnico/responsável da equipe receberá o login e a senha de sua equipe.
 
 Os melhores colocados na seletiva ficarão com as vagas reservadas para sua
 escola. Caso hajam vagas ainda não preenchidas após o término do período de
@@ -126,11 +127,11 @@ a opção de ocupar tais vagas.
 
 A Maratona está prevista para o dia 02 de julho de 2015, das 09:00 às 19:00 hrs,
 no Laboratório de Informática da UnB ([LINF](http://www.cic.unb.br/index.php?option=com_content&view=category&layout=blog&id=30&Itemid=34)). Não será permitido o uso de equipamentos eletrônicos durante o
-evento, cada time pode utilizar material impresso para consulta, desde que em
-quantidade razoável (fica a critério dos juízes decidir se a quantidade de
-material impresso em posse de uma equipe excede o limite razoável).
+evento, e cada time pode utilizar material impresso para consulta. A
+quantidade de material impresso em posse de uma equipe pode ser restringida
+caso exceda o limite razoável, definido a critério dos juízes.
 
-Haverá um _coffe-break_ gentilmente oferecido pela Quixxer durante a realização
+Haverá um _coffee-break_ gentilmente oferecido pela Quixxer durante a realização
 da Maratona. Contudo, o almoço será de responsabilidade dos próprios
 participantes. O restaurante universitário estará aberto, e os alunos da
 universidade, de posse de sua carteira estudantil, podem almoçar por R$ 2,50.

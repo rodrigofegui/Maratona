@@ -1,0 +1,52 @@
+\documentclass{UnBExam}%
+
+% \usepackage{amsmath}%
+% \usepackage{listings}%
+\periodo{}%
+\usepackage[hidelinks]{hyperref}%
+\usepackage{setspace}%
+\doublespacing%
+
+% \disciplina{Declaração de Qualificação}%
+% \turma{A}%
+\documento{I Maratona de Programação UnB/Quixxer}%
+\subdoc{Declaração de Qualificação}%
+% \data{30 de novembro de 2012}%
+\data{}%
+% \periodo{2014/2}%
+\professor{}%{Guilherme N. Ramos}%116319 &
+
+\printanswers
+
+\newcommand{\campo}[2][: ]{#2#1\hrulefill}%
+\newcommand{\ca}[1]{\campo{\textbf{#1}}}%
+\newcommand{\membro}[1]{%
+\indent\ca{#1}\\
+\indent\campo{e-mail}\\
+\indent\campo{Idade} \campo{Curso/Formação}\\
+}%
+
+\begin{document}%
+\vspace{0.5in}
+\noindent
+\ca{Time}\\
+\ca{Instituição}\\
+\indent\campo{Endereço}\\
+\indent\campo{CEP} \campo{Cidade/Estado}\\
+\indent\campo{Telefone} \campo{e-mail}\\
+\ca{Técnico/Responsável}\\
+\indent\campo{e-mail}\\
+\textbf{Membros}\\
+\membro{1}%
+\membro{2}%
+\membro{3}%
+
+\noindent Garanto que todas as informações acima estão corretas e os competidores citados
+cumprem os requisitos para participação na I Maratona de Programação UnB/Quixxer de
+acordo com as regras do concurso.
+
+\vspace{\baselineskip}
+\hspace{.5\textwidth}\hrulefill\\
+\strut\hfill Assinatura do Técnico/Responsável
+\vfill
+\end{document}
