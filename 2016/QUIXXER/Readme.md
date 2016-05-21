@@ -126,7 +126,7 @@ a opção de ocupar tais vagas.
 ### Maratona
 
 A Maratona está prevista para o dia 02 de julho de 2015, das 09:00 às 19:00 hrs,
-no Laboratório de Informática da UnB ([LINF](http://www.cic.unb.br/index.php?option=com_content&view=category&layout=blog&id=30&Itemid=34)). Não será permitido o uso de equipamentos eletrônicos durante o
+no Laboratório de Informática da UnB ([LINF](http://www.cic.unb.br/o-cic/infraestrutura/)). Não será permitido o uso de equipamentos eletrônicos durante o
 evento, e cada time pode utilizar material impresso para consulta. A
 quantidade de material impresso em posse de uma equipe pode ser restringida
 caso exceda o limite razoável, definido a critério dos juízes.
