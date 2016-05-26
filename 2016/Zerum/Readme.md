@@ -1,4 +1,4 @@
-I Maratona de Programação UnB/Quixxer
+I Maratona de Programação UnB/Zerum
 ====================================
 
 * Inscrições: até 25 de junho de 2016
@@ -8,12 +8,13 @@ I Maratona de Programação UnB/Quixxer
 Regras
 ------
 
-Estas regras foram baseadas nas [regras da competição oficial](http://maratona.ime.usp.br/regras16.html) e aprovadas pelo Comitê Diretor da I Maratona de Programação UnB/Quixxer.
+Estas regras foram baseadas nas [regras da Maratona de Programação da SBC](http://maratona.ime.usp.br/regras16.html)
+e aprovadas pelo Comitê Diretor da I Maratona de Programação UnB/Zerum.
 
 ### Formação dos times
 
 Os times representam instituições de ensino superior do Distrito Federal, aqui
-chamadas de escolas, ou instuições privadas e/ou outros, aqui chamadas
+chamadas de escolas, ou outros, aqui chamadas
 comunidade. Os times são formados por um técnico e três alunos da instituição ou
 por três membros da comunidade. Todos os alunos devem ser da mesma escola, e
 uma mesma instituição pode ter vários times participantes. O número de times por
@@ -91,9 +92,9 @@ por
 [e-mail](mailto:edsonalves@unb.br).  Formulários incompletos ou preenchidos
 incorretamente serão desconsiderados e o time não poderá participar do evento.
 
-Ao submeter o formulário de inscrição a equipe autoriza a Quixxer, apoiadora
-do evento, acesso aos dados do participantes para possíveis contatos
-profissionais futuros.
+Ao submeter o formulário de inscrição a equipe autoriza a Zerum,
+empresa apoiadora do evento, acesso aos dados de seus membros (nome, telefone,
+e-mail) para possíveis contatos profissionais futuros.
 
 O evento prevê a participação de até 30 times. Os times oriundos da Universidade
 de Brasília devem participar da Seletiva para efetivar suas inscrições.
@@ -115,8 +116,10 @@ vagas, de acordo com a origem da equipe.
 
 A seletiva para as equipes oriundas da Universidade de Brasília será um evento
 online, realizado na plataforma Boca neste [endereço](http://lappis.unb.br/boca) no
-dia 18 de junho, das 08:00 às 13:00 hrs. No momento da entrega dos formulários
-o técnico/responsável da equipe receberá o login e a senha de sua equipe.
+dia 18 de junho, das 08:00 às 13:00 hrs. Após a validação do formulário de
+inscrição, a equipe de coordenação enviará ao
+técnico/responsável da equipe o login e a senha de sua equipe para a
+seletiva.
 
 Os melhores colocados na seletiva ficarão com as vagas reservadas para sua
 escola. Caso hajam vagas ainda não preenchidas após o término do período de
@@ -125,7 +128,7 @@ a opção de ocupar tais vagas.
 
 ### Maratona
 
-A Maratona está prevista para o dia 02 de julho de 2015, das 09:00 às 19:00 hrs,
+A Maratona está prevista para o dia 02 de julho de 2015, das 10:00 às 18:00 hrs,
 no Laboratório de Informática da UnB ([LINF](http://www.cic.unb.br/o-cic/infraestrutura/)). Não será permitido o uso de equipamentos eletrônicos durante o
 evento, e cada time pode utilizar material impresso para consulta. A
 quantidade de material impresso em posse de uma equipe pode ser restringida
@@ -139,11 +142,11 @@ Membros da comunidade podem almoçar por R$ 15,00.
 
 Abaixo segue o programa do evento:
 
-**09:00** - Abertura/Palestra
+**10:00** - Abertura/Palestra
 
-**10:15** - Warmup
+**10:30** - Warmup
 
-**11:00** - Almoço
+**11:30** - Almoço
 
 **13:00** - Maratona
 
