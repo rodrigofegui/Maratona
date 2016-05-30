@@ -14,7 +14,7 @@ e aprovadas pelo Comitê Diretor da I Maratona de Programação UnB/Zerum.
 ### Formação dos times
 
 Os times representam instituições de ensino superior do Distrito Federal, aqui
-chamadas de escolas, ou outros, aqui chamadas
+chamadas de escolas, ou outros, aqui chamados
 comunidade. Os times são formados por um técnico e três alunos da instituição ou
 por três membros da comunidade. Todos os alunos devem ser da mesma escola, e
 uma mesma instituição pode ter vários times participantes. O número de times por
@@ -24,19 +24,21 @@ escola ou da comunidade seguirá a distribuição de vagas listada na seção de
 O concurso se destina a alunos de instituições superiores tipicamente da área
 de computação (Ciência da Computação, Engenharia de Computação, Sistemas de
 Informação, etc.) e áreas afins (Matemática, Física e Engenharia), ou membros da
-comunidade que atuam profissionalmente em uma destas áreas ou é um entusiasta
-das mesmas. Não há impedimentos à participação de alunos de outros cursos. O
-técnico será o representante do time junto à organização do concurso e deverá
-ser um docente desta escola. O mesmo técnico poderá representar vários times da
-escola. Uma mesma escola pode ter vários técnicos. Equipes da comunidade não
-precisam de um técnico: neste caso, um dos três membros deve ser o
-responsável pela equipe.
+comunidade que atuam profissionalmente em uma destas áreas ou são entusiastas
+das mesmas. Não há impedimentos à participação de alunos de outros cursos.
 
 Cada time é composto por três membros, e um membro não pode participar de mais
 de um time. Todos os membros das escolas devem ser alunos regulares de cursos
 de graduação da escola, devidamente matriculados. Substituições de integrantes
 não serão aceitas. Uma equipe pode competir apenas se tiver os três membros
 presentes: equipes com menos de três membros serão desclassificadas.
+
+Para escolas, o
+técnico será o representante do time junto à organização do concurso e deverá
+ser um docente desta instituição. O mesmo técnico poderá representar vários times da
+escola e uma mesma escola pode ter vários técnicos. Equipes da comunidade não
+precisam de um técnico: neste caso, um dos três membros deve ser o
+responsável pela equipe.
 
 ### Formato do concurso
 
@@ -76,7 +78,7 @@ programas submetidos pela organização da competição.
 ### Recursos
 
 Apenas o técnico/responsável do time poderá recorrer à organização do evento caso julgue que
-seu time tenha sido prejudicado durante a competição. O Comitê Diretor do evento
+seu time tenha sido prejudicado durante a competição. A organização da competição
 decidirá sobre o caso.
 
 Um recurso deve estar baseado em uma ou mais das circunstâncias a seguir:
@@ -110,7 +112,6 @@ vagas, de acordo com a origem da equipe.
 | 2 | FT/UnB |
 | 8 | Instituições de Ensino Superior, exceto UnB |
 | 5 | Comunidade |
-| 3 | A definir |
 
 ### Seletiva
 
@@ -126,25 +127,30 @@ escola. Caso hajam vagas ainda não preenchidas após o término do período de
 inscrições, os melhores colocados da seletiva ainda não classificados terão
 a opção de ocupar tais vagas.
 
+Sendo um evento online, espera-se que os participantes mantenham a lisura e o
+profissionalismo. Não é permitida a colaboração entre as equipes e o compartilhamento
+de códigos e ideias. Qualquer tentativa de fraude resultará na desclassificação
+das equipes envolvidas.
+
 ### Maratona
 
-A Maratona está prevista para o dia 02 de julho de 2015, das 10:00 às 18:00 hrs,
+A Maratona está prevista para o dia 02 de julho de 2016, das 10:00 às 18:00 hrs,
 no Laboratório de Informática da UnB ([LINF](http://www.cic.unb.br/o-cic/infraestrutura/)). Não será permitido o uso de equipamentos eletrônicos durante o
 evento, e cada time pode utilizar material impresso para consulta. A
 quantidade de material impresso em posse de uma equipe pode ser restringida
 caso exceda o limite razoável, definido a critério dos juízes.
 
-Haverá um _coffee-break_ gentilmente oferecido pela Quixxer durante a realização
+Haverá um _coffee-break_ gentilmente oferecido pela Zerum durante a realização
 da Maratona. Contudo, o almoço será de responsabilidade dos próprios
-participantes. O restaurante universitário estará aberto, e os alunos da
-universidade, de posse de sua carteira estudantil, podem almoçar por R$ 2,50.
-Membros da comunidade podem almoçar por R$ 15,00.
+participantes. O Restaurante Universitário estará aberto, e os alunos da
+UnB, de posse de sua carteira estudantil, podem almoçar por R$ 2,50.
+Os demais podem almoçar por R$ 15,00.
 
 Abaixo segue o programa do evento:
 
 **10:00** - Abertura/Palestra
 
-**10:30** - Warmup
+**10:30** - Warm Up
 
 **11:30** - Almoço
 

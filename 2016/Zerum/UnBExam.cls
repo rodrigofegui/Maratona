@@ -67,7 +67,7 @@
 
 % Inicialização
 \universidade{\textbf{Universidade de Brasília}}%
-\departamento{Departamento de Ciência da Computação/Faculdade UnB Gama}%
+\departamento{CIC/FGA}
 \disciplina{}%
 \professor{Matheus Pimenta}%
 \turma{}%
