@@ -73,7 +73,8 @@ envolvidos.
 
 A organização da competição é responsável pela decisão de qualquer caso não
 previsto. Os times inscritos permitem o uso e divulgação de suas imagens e dos
-programas submetidos pela organização da competição.
+programas submetidos pela organização da competição. As imagens serão utilizadas
+apenas e exclusivamente no site do evento, para divulgação e registro.
 
 ### Recursos
 
