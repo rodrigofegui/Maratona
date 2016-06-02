@@ -1,15 +1,15 @@
-I Maratona de Programação UnB/Zerum
+Zerum & UnB Code Day 2016
 ====================================
 
 * Inscrições: até 25 de junho de 2016
 * Seletiva: 18 de junho de 2016 (_apenas para alunos da UnB_)
-* Maratona: 02 de julho de 2016
+* Evento: 02 de julho de 2016
 
 Regras
 ------
 
 Estas regras foram baseadas nas [regras da Maratona de Programação da SBC](http://maratona.ime.usp.br/regras16.html)
-e aprovadas pelo Comitê Diretor da I Maratona de Programação UnB/Zerum.
+e aprovadas pelo Comitê Diretor do Zerum & UnB Code Day 2016.
 
 ### Formação dos times
 
@@ -133,16 +133,16 @@ profissionalismo. Não é permitida a colaboração entre as equipes e o compart
 de códigos e ideias. Qualquer tentativa de fraude resultará na desclassificação
 das equipes envolvidas.
 
-### Maratona
+### Evento
 
-A Maratona está prevista para o dia 02 de julho de 2016, das 10:00 às 18:00 hrs,
+O evento está previsto para o dia 02 de julho de 2016, das 10:00 às 18:00 hrs,
 no Laboratório de Informática da UnB ([LINF](http://www.cic.unb.br/o-cic/infraestrutura/)). Não será permitido o uso de equipamentos eletrônicos durante o
 evento, e cada time pode utilizar material impresso para consulta. A
 quantidade de material impresso em posse de uma equipe pode ser restringida
 caso exceda o limite razoável, definido a critério dos juízes.
 
 Haverá um _coffee-break_ gentilmente oferecido pela Zerum durante a realização
-da Maratona. Contudo, o almoço será de responsabilidade dos próprios
+do evento. Contudo, o almoço será de responsabilidade dos próprios
 participantes. O Restaurante Universitário estará aberto, e os alunos da
 UnB, de posse de sua carteira estudantil, podem almoçar por R$ 2,50.
 Os demais podem almoçar por R$ 15,00.
@@ -155,6 +155,6 @@ Abaixo segue o programa do evento:
 
 **11:30** - Almoço
 
-**13:00** - Maratona
+**13:00** - Maratona de Programação
 
 **18:00** - Premiação/Encerramento
