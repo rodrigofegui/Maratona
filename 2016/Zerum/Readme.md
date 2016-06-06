@@ -9,7 +9,7 @@ Regras
 ------
 
 Estas regras foram baseadas nas [regras da Maratona de Programação da SBC](http://maratona.ime.usp.br/regras16.html)
-e aprovadas pelo Comitê Diretor do Zerum & UnB Code Day 2016.
+e aprovadas pela organização do evento e pela Zerum. 
 
 ### Formação dos times
 
@@ -158,3 +158,19 @@ Abaixo segue o programa do evento:
 **13:00** - Maratona de Programação
 
 **18:00** - Premiação/Encerramento
+
+### Premiação
+
+A Zerum premiará as equipes melhores colocadas no evento, segundo a tabela abaixo, segundo um
+item para cada um dos três membros da equipe.
+
+| Posição da Equipe | Prêmio |
+|-------|--------|
+| 1º | Celular Samsung |
+| 2º | Tablet Samsung |
+| 3º | Kindle |
+
+Os valores estimados dos prêmios são: Celular Samsung (R$ 1.600,00), Tablet Samsung (R$ 800,00)
+e Kindle (R$ 300,00). A escolha dos modelos será feita pela própria Zerum e os equipamentos serão
+entregues na cerimônia de premiação e encerramento de evento.
+
