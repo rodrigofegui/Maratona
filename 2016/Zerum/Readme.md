@@ -161,7 +161,7 @@ Abaixo segue o programa do evento:
 
 ### Premiação
 
-A Zerum premiará as equipes melhores colocadas no evento, segundo a tabela abaixo, segundo um
+A Zerum premiará as equipes melhores colocadas no evento, segundo a tabela abaixo, sendo um
 item para cada um dos três membros da equipe.
 
 | Posição da Equipe | Prêmio |
